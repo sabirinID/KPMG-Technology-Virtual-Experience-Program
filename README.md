@@ -37,5 +37,4 @@ A large part of a data analyst’s job is to translate technical insights and co
 [Click to view website →](https://www.youtube.com/watch?v=vbzpQfDIMG4)
 
 ## References
-KPMG. (2023). Introduction to Technology: Explore a career in Technology with KPMG in the UK. [Forage](https://www.theforage.com/virtual-internships/prototype/bJLRJKe6DcwZCiCsi/Introduction%20to%20Technology?ref=MJvCdpjrnuozuJWcn).
-
+KPMG. (2023). Introduction to Technology. [Forage](https://www.theforage.com/virtual-internships/prototype/bJLRJKe6DcwZCiCsi/Introduction%20to%20Technology?ref=MJvCdpjrnuozuJWcn).
