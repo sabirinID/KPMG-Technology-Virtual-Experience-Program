@@ -11,6 +11,7 @@ They have provided us with some datasets and it is my job as a data analyst to p
 * They want to know which stores are performing best and which ones are performing worst
 * They want to understand the regions with the largest opportunity for growth if they were to open a new store
 * They want to understand what top 5 products they should sell in a new store to maximise profit when they first open
+
 A large part of a data analyst’s job is to translate technical insights and concepts into relatable and understandable terms and outcomes for the client. Therefore, having a deep understanding of the data, the client’s business and their processes is important to complete this task.
 
 ## Task Brief
